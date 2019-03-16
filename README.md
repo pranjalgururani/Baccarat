@@ -11,8 +11,10 @@ Instead of creating 52 individual cards, I used an ArrayList to store the indivi
 **MVC Framework**
 I have tried to implement this game using the Model - View - Controller Framework
 
-Model - All classes related to Cards such as Cards, Deck and Hand
+Model -  Cards Class, Deck Class,  Hand Class, Suit Enum, Rank Enum
+
 View - Simulation Class
+
 Controller - GameController Class
 
 I created few unit tests which can be replicated to perform unit tests.
