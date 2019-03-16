@@ -17,3 +17,5 @@ Controller - GameController Class
 I created few unit tests which can be replicated to perform unit tests.
 
 Below is the screenshot when the user wants to run 1 simulation:
+
+<img width="576" alt="Baccarat Image" src="https://user-images.githubusercontent.com/35849976/54470523-31946580-4777-11e9-8a9b-6a725e38d41f.png">
